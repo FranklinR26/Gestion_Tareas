@@ -12,3 +12,14 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 1. Clona este repositorio:
 ```bash
 git clone <URL_del_repositorio>```
+
+gestor_tareas/
+├── tests/
+│	└── test_gestor_tareas.py
+├── src/
+│	├── logica
+│	│	└── test_gestor_tareas.py
+│	└── vista
+│	└── gui_gestor_tareas.py
+└── README.md
+
